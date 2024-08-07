@@ -6,7 +6,7 @@ import {
 
 import
   Index
-from '../views/Index.vue';  
+from '../views/Index.vue';
 
 const routes: Array<RouteRecordRaw> = [
   {
